@@ -12,8 +12,7 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 |  OPTIONS:           | |
 |:--------------------|:-------------|
 |-d, --dest           | Specify theme destination directory (Default: $HOME/.themes)|
-|-n, --name           | Specify theme name (Default: McMojave-circle)|
-|-c, --circle         | Specify circle folder version|
+|-n, --name           | Specify theme name (Default: CoolMint-Circle)|
 |-a, --all            | Install all color folder versions|
 |-black               | Black color folder version|
 |-blue                | Blue color folder version|
@@ -34,8 +33,6 @@ Usage:  `./install.sh`  **[OPTIONS...]**
 `./install.sh -black` : install black color versions
 
 `./install.sh -a` : install all color versions
-
-`./install.sh -c` : install circle folder version
 
 ## Requirment
 You can use this with:
